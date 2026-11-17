@@ -1,0 +1,6 @@
+{
+  "name": "prompt-master",
+  "description": "Prompt Master: one click turns a rough draft into a better prompt.",
+  "owner": { "name": "Michael Rutherford" },
+  "plugins": [{ "name": "prompt-master", "source": "./" }]
+}

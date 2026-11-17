@@ -1,0 +1,8 @@
+{
+  "name": "prompt-master",
+  "version": "0.1.1",
+  "description": "One click rewrites your rough draft into a clearer, sharper prompt before you send it.",
+  "author": { "name": "Michael Rutherford" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
